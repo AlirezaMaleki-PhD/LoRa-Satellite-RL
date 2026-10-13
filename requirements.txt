@@ -1,0 +1,5 @@
+# Only three dependencies — the PPO and DQN agents are pure NumPy,
+# so no PyTorch / TensorFlow / gymnasium install is required.
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.6

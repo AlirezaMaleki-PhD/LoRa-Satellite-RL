@@ -1,0 +1,46 @@
+[
+  {
+    "N": 100,
+    "reward_mode": "database",
+    "plr_random": 0.02924816313167088,
+    "plr_random_reported": 0.029,
+    "plr_ppo": 0.006390980115509812,
+    "plr_dqn": 0.006783457221342146,
+    "pkts_random": 1778,
+    "pkts_ppo": 2612,
+    "pkts_dqn": 2819
+  },
+  {
+    "N": 500,
+    "reward_mode": "database",
+    "plr_random": 0.04983309587293273,
+    "plr_random_reported": 0.048,
+    "plr_ppo": 0.022961004905375584,
+    "plr_dqn": 0.023236507790706334,
+    "pkts_random": 9096,
+    "pkts_ppo": 15877,
+    "pkts_dqn": 15595
+  },
+  {
+    "N": 800,
+    "reward_mode": "database",
+    "plr_random": 0.0588557405418922,
+    "plr_random_reported": 0.059,
+    "plr_ppo": 0.0406068502707569,
+    "plr_dqn": 0.035671711288160074,
+    "pkts_random": 14595,
+    "pkts_ppo": 30164,
+    "pkts_dqn": 27445
+  },
+  {
+    "N": 1000,
+    "reward_mode": "database",
+    "plr_random": 0.06582461512142664,
+    "plr_random_reported": 0.062,
+    "plr_ppo": 0.054133805671850534,
+    "plr_dqn": 0.05114339868843728,
+    "pkts_random": 18200,
+    "pkts_ppo": 26285,
+    "pkts_dqn": 25054
+  }
+]
